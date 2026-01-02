@@ -17,8 +17,8 @@ return top 5 year with highest avg content release!
 14. Find the top 10 actors who have appeared in the highest number of movies produced in India.
 15.
 Categorize the content based on the presence of the keywords 'kill' and 'violence' in 
-the description field. Label content containing these keywords as 'Bad' and all other 
-content as 'Good'. Count how many items fall into each category.
+the description field. Label content containing these keywords as 'Age-restricted_content' and all other 
+content as 'Clean_content'. Count how many items fall into each category.
 
 
 
