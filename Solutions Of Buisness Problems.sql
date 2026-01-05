@@ -130,7 +130,7 @@ group by 1
 order by 2 desc
 limit 10;
 
---15. Categorize Content Based on the Presence of 'Age-restricted_content' and 'Clean_content' Keywords
+--15. Categorize Content Based on the Presence of 'Kill' and 'Violence' Keywords
 WITH new_table
 as
 (
