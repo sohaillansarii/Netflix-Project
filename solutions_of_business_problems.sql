@@ -149,3 +149,13 @@ category,
 count(*) as total_content
 from new_table
 group by 1;
+
+
+
+CREATE OR REPLACE FUNCTION github_pgsql_check()
+RETURNS void AS $$
+BEGIN
+  RAISE NOTICE 'PLpgSQL detected';
+END;
+$$ LANGUAGE plpgsql;
+
