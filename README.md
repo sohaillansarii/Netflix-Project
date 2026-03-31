@@ -9,7 +9,7 @@
   <img src="netflix_dashboard_1.png" width="1400"/>
 </p>
 
-###  Dashboard 2
+### 📊 Dashboard 2
 <p align="center">
   <img src="netflix_dashboard_2.png" width="1400"/>
 </p
