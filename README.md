@@ -272,10 +272,10 @@ GROUP BY category;
 
 -- Business Insights
 
--- **Netflix content is dominated by Movies compared to TV Shows, showing a strong focus on film-based content.
--- **TV-PG is the most frequently occurring rating, indicating a strong preference for family-friendly content.
--- **Content additions have significantly increased in the last 5 years, showing rapid platform expansion and growth.
--- **TV Shows with only 1 season are the most common, indicating that short-series formats are more prevalent compared to long-running shows.
+- **Netflix content is dominated by Movies compared to TV Shows, showing a strong focus on film-based content.**
+- **TV-PG is the most frequently occurring rating, indicating a strong preference for family-friendly content.**
+- **Content additions have significantly increased in the last 5 years, showing rapid platform expansion and growth.**
+- **TV Shows with only 1 season are the most common, indicating that short-series formats are more prevalent compared to long-running shows.**
 
 
 ## Author - SOHAIL ANSARI
